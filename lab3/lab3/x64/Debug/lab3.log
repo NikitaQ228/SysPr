@@ -1,0 +1,105 @@
+﻿  lab3.cpp
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(9,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(10,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(10,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(10,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(11,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(11,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(11,7): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(12,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(12,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(12,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(13,3): error C2065: cmp: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(13,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(13,7): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(13,12): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(14,3): error C2065: jg: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(14,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a_bigger"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(14,6): error C2065: a_bigger: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(15,3): error C2065: jl: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(15,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "a_smaller"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(15,6): error C2065: a_smaller: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(16,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(16,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(17,3): error C2065: jmp: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(17,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fin"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(17,7): error C2065: fin: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(19,3): error C2059: синтаксическая ошибка: ||
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(20,3): error C2065: jz: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(20,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dbz"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(20,6): error C2065: dbz: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(21,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(21,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(21,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(21,12): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(22,3): error C2065: imul: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(22,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(22,8): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(23,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(23,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(23,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(24,3): error C2065: imul: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(24,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(24,8): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(25,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(25,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(25,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(26,3): error C2065: cdq: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(27,3): error C2065: idiv: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(27,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(27,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(28,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(28,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(28,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(29,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(29,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(29,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(30,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(30,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(30,12): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(31,3): error C2065: jmp: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(31,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fin"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(31,7): error C2065: fin: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(33,3): error C2059: синтаксическая ошибка: ||
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(34,3): error C2065: jz: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(34,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "dbz"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(34,6): error C2065: dbz: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(35,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(35,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(35,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(35,12): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(36,3): error C2065: imul: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(36,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(36,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(37,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(37,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(37,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(38,3): error C2065: imul: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(38,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ebx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(38,8): error C2065: ebx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(39,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(39,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(39,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(40,3): error C2065: add: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(40,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eax"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(40,7): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(41,3): error C2065: jo: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(41,6): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(41,6): error C2065: errorof: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(42,3): error C2065: cdq: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(43,3): error C2065: idiv: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(43,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ecx"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(43,8): error C2065: ecx: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(44,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(44,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "res"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(44,12): error C2065: eax: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(45,3): error C2065: jmp: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(45,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fin"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(45,7): error C2065: fin: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(46,2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "errorof"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(47,3): error C2065: mov: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(47,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "of"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(48,3): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "jmp"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(48,3): error C2065: jmp: необъявленный идентификатор
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(48,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "finish"
+C:\Users\Никита\Desktop\СисПр\lab3\lab3\lab3.cpp(48,7): error C1003: число ошибок превышает 100; остановка компиляции
